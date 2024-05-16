@@ -7,5 +7,13 @@ export default defineConfig({
     },
 
     specPattern: "src/**/*.spec.{js,jsx,ts,tsx}",
+    testIsolation: false,
+  },
+
+  component: {
+    devServer: {
+      framework: "react",
+      bundler: "webpack",
+    },
   },
 });
