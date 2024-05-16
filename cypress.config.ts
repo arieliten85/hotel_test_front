@@ -5,11 +5,9 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       return config;
     },
-
     specPattern: "src/**/*.spec.{js,jsx,ts,tsx}",
     testIsolation: false,
   },
-
   component: {
     devServer: {
       framework: "react",

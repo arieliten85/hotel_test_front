@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-
 import { Formik, Form, Field, ErrorMessage } from "formik";
 import { ReusableFormProps } from "../../interfaces/form/interfacesForm";
 
@@ -54,6 +52,7 @@ export const ReusableForm = ({
                 type="submit"
                 className="btn btn-primary mt-4 p-2"
                 disabled={isSubmitting}
+                data-test="button-login-submit"
               >
                 {submitButtonText}
               </button>

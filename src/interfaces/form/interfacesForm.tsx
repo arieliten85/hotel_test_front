@@ -10,7 +10,7 @@ export interface FormField {
 export interface ReusableFormProps {
   initialValues: object;
   validationSchema: any;
-  onSubmit: (values: any) => void;
+  onSubmit: (e: any, values: any) => void;
   fields: FormField[];
   formTitle: string;
   submitButtonText: string;
