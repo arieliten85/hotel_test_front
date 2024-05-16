@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "img": "https://images.unsplash.com/photo-1693574276020-1808ae9d19fa?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UmVzb3J0JTIwZGUlMjBQbGF5YSUyMGRlJTIwTHVqb3xlbnwwfDB8MHx8fDA%3D",
+    "title": "Luxury Beach Resort",
+    "description": "Get a complimentary relaxing massage at our world-class spa with your stay. Generate your promo code and enjoy this exclusive offer.",
+    "redeemed": false
+  },
+  {
+    "id": "02",
+    "img": "https://plus.unsplash.com/premium_photo-1680098057172-c1a73ab2c131?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Cozy Mountain Lodge",
+    "description": "Receive a 20% discount on adventure activities like rafting and mountain biking. Generate your promo code and take advantage of this special offer.",
+    "redeemed": false
+  },
+  {
+    "id": "03",
+    "img": "https://images.unsplash.com/photo-1444201983204-c43cbd584d93?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Urban Boutique Hotel",
+    "description": "Receive a $50 voucher to spend at partnered local cafes during your stay. Generate your promo code and enjoy this exclusive benefit.",
+    "redeemed": false
+  },
+  {
+    "id": "04",
+    "img": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Spa and Wellness Hotel",
+    "description": "Enjoy a 15% discount on all spa treatments and massages during your visit. Generate your promo code and relax with this special offer.",
+    "redeemed": false
+  },
+  {
+    "id": "05",
+    "img": "https://plus.unsplash.com/premium_photo-1686090449200-57266c6623a6?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Rustic Forest Cabins",
+    "description": "Get an additional free night for every three nights booked. Generate your promo code and enjoy this special offer for a relaxing getaway.",
+    "redeemed": false
+  },
+  {
+    "id": "06",
+    "img": "https://images.unsplash.com/photo-1570206982564-1c5d086f29d6?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Luxury City Hotel",
+    "description": "Receive a complimentary upgrade to a luxury city view suite. Generate your promo code and experience an unforgettable luxury stay.",
+    "redeemed": false
+  }
+]
