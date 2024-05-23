@@ -1,4 +1,4 @@
-import { CardProps } from "../../components/card/CardContainer";
+import { CardProps } from "interfaces/card/cardInterfaces";
 import { CardItem } from "../../components/card/CardItem";
 import { useState, useEffect } from "react";
 
