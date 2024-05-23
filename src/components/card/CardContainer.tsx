@@ -11,13 +11,6 @@ import { CardProps } from "interfaces/card/cardInterfaces";
 export function CardContainer() {
   const [cardsData, setCardsData] = useState<CardProps[]>([]);
 
-  // useEffect(() => {
-  //   const storedData = localStorage.getItem("cardsData");
-  //   if (storedData) {
-  //     setCardsData(JSON.parse(storedData));
-  //   }
-  // }, []);
-
   const handleGenerateCode = (item: CardProps) => {
     const code = generateCode();
     const updatedCardsData = [
